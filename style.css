@@ -3,6 +3,36 @@ h1 {
     font-family:Arial, Helvetica
 }
 
+h2 {
+    color: #ffffff;
+    font-family:Arial, Helvetica
+}
+
+h3 {
+    color: #ffffff;
+    font-family:Arial, Helvetica
+}
+
+h4 {
+    color: #ffffff;
+    font-family:Arial, Helvetica
+}
+
+li  {
+    color: #ffffff;
+    font-family:Arial, Helvetica    
+}
+
+dt  {
+    color: #ffffff;
+    font-family:Arial, Helvetica    
+}
+
+dl  {
+    color: #ffffff;
+    font-family:Arial, Helvetica    
+}
+
 body {
  background-color: rgb(26, 23, 23);
 }
