@@ -1,47 +1,15 @@
 h1 {
-    color: #ffffff;
-    font-family:Arial, Helvetica
-}
-
-h2 {
-    color: #ffffff;
-    font-family:Arial, Helvetica
-}
-
-h3 {
-    color: #ffffff;
-    font-family:Arial, Helvetica
-}
-
-h4 {
-    color: #ffffff;
-    font-family:Arial, Helvetica
-}
-
-li  {
-    color: #ffffff;
-    font-family:Arial, Helvetica    
-}
-
-dt  {
-    color: #ffffff;
-    font-family:Arial, Helvetica    
-}
-
-dl  {
-    color: #ffffff;
-    font-family:Arial, Helvetica    
+    color: brown;
+    font-family:Arial, Helvetica;
+    font-size: 45px;
+    text-align: ;
 }
 
 body {
  background-color: rgb(26, 23, 23);
-}
-
-p{
-    font-size: 18px; /* tamanho da fonte*/
-    line-height: 1.4; /* espaçamento entre as linhas*/
-    font-family: Arial, Helvetica;
-    color: #ffffff;
+ color: chocolate;
+ font-size: 14px;
+ font-family: Arial, Helvetica;
 }
 
 img {
@@ -52,7 +20,7 @@ img {
 
 /* estilo para links */
 a {
-    color: #0070cc;
+    color: brown;
     text-decoration: none; /* remove sublinhado padrão */
 }
 
